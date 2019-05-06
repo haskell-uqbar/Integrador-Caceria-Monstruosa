@@ -3,6 +3,7 @@
 
 **La empresa Cuadrado Enix se encuentra al borde de la quiebra y nos contrató para crear un juego de fantasía con un fuerte énfasis en su historia. Este va a ser un juego de rol y, como esperaríamos, los personajes van a poder interactuar de diferentes formas con el mundo. El objetivo principal es que los personajes deben ir a cazar monstruos a diferentes mapas, para subir de nivel y progresar en el juego.**
 
+![](caceria.jpg)
 
 ### Los personajes
 
