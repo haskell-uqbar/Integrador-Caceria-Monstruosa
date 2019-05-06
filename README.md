@@ -49,4 +49,4 @@ Nos interesa saber si un monstruo es agresivo. Eso sucede cuando tiene más habi
 * Explicar dónde y para qué se utilizaron los conceptos de aplicación parcial y composición. 
 * Analizar qué cosas podrían suceder si la lista de monstruos de un mapa fuera infinita. Justificar conceptualmente.
 
-**Importante: Mostrar ejemplos de uso de las principales funciones **
+**Importante: Mostrar ejemplos de uso de las principales funciones.**
